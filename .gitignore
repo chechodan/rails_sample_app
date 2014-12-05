@@ -10,14 +10,10 @@
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
-doc/
-*.swp
 
 # Ignore all logfiles and tempfiles.
-*.log
 /log/*.log
 /tmp
-*~
-.project
-.DS_Store
-.psd
+
+# Ignore Spring files
+/spring/*.pid

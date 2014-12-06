@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
+#Adding bcrypt-ruby 
+gem 'bcrypt'
 #Bootstrap twiter
 gem 'bootstrap-sass'
 # Use SCSS for stylesheets

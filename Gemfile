@@ -4,6 +4,11 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.8'
 #Adding bcrypt-ruby 
 gem 'bcrypt'
+
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+
 #Bootstrap twiter
 gem 'bootstrap-sass'
 # Use SCSS for stylesheets

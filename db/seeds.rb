@@ -6,7 +6,7 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-User.create!(name: "Example User", email: "example@ra.org", password: "example", password_confirmation: "example")
+User.create!(name: "Example User", email: "example@ra.org", password: "example", password_confirmation: "example", admin: true)
 
 99.times do |n|
   name = Faker::Name.name

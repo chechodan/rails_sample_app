@@ -1,6 +1,2 @@
-uby on Rails Tutorial: sample application
-
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is a demo application that I built to practice "Ruby on Rails". 
+The application is a mini blog like twiter. It has the essential elements of a website.

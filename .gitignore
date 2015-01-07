@@ -17,3 +17,10 @@
 
 # Ignore Spring files
 /spring/*.pid
+
+# Ignorar otros archivos innecesarios 
+doc/
+*.swp
+*~
+.project
+.DS_Store
